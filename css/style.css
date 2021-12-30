@@ -1,0 +1,134 @@
+body{
+    text-align: center;
+    margin: 0;
+    
+    
+}
+
+.top-containers{
+    padding-top: 45px;
+    border-radius: 0px 0px 30px 30px;
+    width: 1348px;
+    height: 570px;
+    background-image: url("images/background.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#head-intro{
+
+   
+    text-align: center;
+    font-style: italic;
+    margin: 10px px;
+    color: darkcyan;
+}
+
+h1{
+    font-size: 6rem;   
+       
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+span{
+    text-decoration: underline;
+}
+
+
+
+.mid-containers{
+    padding-top: 45px;
+    margin-bottom: 30px;
+    width: 1348px;
+    
+
+}
+
+h3{
+    font-size: 1.8rem;
+    font-weight: normal;
+
+
+    padding: 6px;
+}
+
+.profile{
+    padding: 60px 60px;
+}
+
+.skills{
+    padding-top: 60px;
+}
+
+.skill-row{
+
+    width: 300px;
+    display: inline-block;
+    margin: 45px 45px;
+
+}
+
+.node > .skill-row {
+
+    width: 330px;
+    
+    display: inline-block;
+    margin: 30px 30px;
+}
+
+
+.node > .skill-row >img {
+
+    width: 300px;
+    height: 150px;
+    
+
+}
+
+img{
+    
+    width: 150px;
+    height: 150px;
+   
+}
+
+
+
+hr{
+    border: dotted grey 12px;
+    border-top: none;
+    width: 3%;
+
+}
+
+
+.bottom-containers{
+    padding-top: 45px;
+    
+    
+}
+
+.footer{
+    padding-top: 30px;
+    height: 90px;
+    background-color: aqua;
+    border-radius:  30px 30px 0px 0px;
+}
+
+
+.footer >a {
+    padding: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    font-size: 0.9rem;
+    line-height: 1.8;
+}
